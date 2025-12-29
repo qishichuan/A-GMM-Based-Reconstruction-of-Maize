@@ -39,14 +39,12 @@ Phenotypic measurements vs. manual ground truth:
 Plant height: R2=0.99, RMSE = 0.015 m
 Stem width: R2=0.79, RMSE = 0.0039 m (after correction K1=0.67)
 Leaf width: R2=0.79, RMSE = 0.0093 m (after correction K2=0.71)
-## Result Examples
-Single-plant registration results: Point clouds retain 3D leaf morphology   
-Result Examples
-Single-plant registration results: Point clouds retain 3D leaf morphology
-<img width="868" height="331" alt="图片" src="https://github.com/user-attachments/assets/b528e3fb-a736-4da7-a703-f32dceb54de9" />
-Population reconstruction: Extracted single-plant point clouds show clear hierarchy
+## Result Examples 
+Single-plant registration results: Point clouds retain 3D leaf morphology  
+<img width="868" height="331" alt="图片" src="https://github.com/user-attachments/assets/b528e3fb-a736-4da7-a703-f32dceb54de9" />  
+Population reconstruction: Extracted single-plant point clouds show clear hierarchy  
 <img width="1010" height="897" alt="图片" src="https://github.com/user-attachments/assets/f6a4d05f-bb1c-4709-8f41-8868be81d75a" />
 ## *Corresponding author
-Lu liu, Associate professor
-Anhui Agricultural University
+Lu liu, Associate professor  
+Anhui Agricultural University  
 email:vliulu@ahau.edu.cn
